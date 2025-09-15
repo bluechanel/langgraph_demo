@@ -13,8 +13,11 @@
 | LangGraph入门全解（五）：多智能体协作一一Agents的任务分工与通信  |  [文章](https://mp.weixin.qq.com/s/VrC5OJHY6SYAFb1x4P44gg) |  [代码](/part5/) |
 | LangGraph入门全解（六）：实战DeepResearch一一打造强大的AI调研助手  |  todo |  [代码](/part6/) |
 
-
-
+## 环境变量
+```shell
+cp .env.example .env
+```
+修改值为实际值
 ## 公众号
 
 <div align="left"><img src="images/wechat.png" width="250"/></div>
