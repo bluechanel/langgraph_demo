@@ -4,12 +4,24 @@
 
 ## 系列文章
 
-- [LangGraph入门全解（一）：从LangChain到多轮对话智能体](https://mp.weixin.qq.com/s/tNTjTjAMpEpBDIJyW65Edw)
-- [LangGraph入门全解（二）：让机器人学会用工具一一集成MCP调用](https://mp.weixin.qq.com/s/UNsSRvJ96BOH1ZPQHikdug)
-- [LangGraph入门全解（三）：让机器人拥有记忆一一集成Mem0](https://mp.weixin.qq.com/s/cuF8bJSFJ_7iCo8OVhcFpw)
-- [LangGraph入门全解（四）：构建人机交互体验](https://mp.weixin.qq.com/s/AvA2TSwDVt7YwY9TPOykLQ)
-- [LangGraph入门全解（五）：多智能体协作一一Agents的任务分工与通信](https://mp.weixin.qq.com/s/VrC5OJHY6SYAFb1x4P44gg)
+- LangGraph入门全解（一）：从LangChain到多轮对话智能体
+ [代码](/part1/)
+ [文章](https://mp.weixin.qq.com/s/tNTjTjAMpEpBDIJyW65Edw)
+- LangGraph入门全解（二）：让机器人学会用工具一一集成MCP调用
+ [代码](/part2/)
+ [文章](https://mp.weixin.qq.com/s/UNsSRvJ96BOH1ZPQHikdug)
+- LangGraph入门全解（三）：让机器人拥有记忆一一集成Mem0
+ [代码](/part3/)
+ [文章](https://mp.weixin.qq.com/s/cuF8bJSFJ_7iCo8OVhcFpw)
+- LangGraph入门全解（四）：构建人机交互体验
+ [代码](/part4/)
+ [文章](https://mp.weixin.qq.com/s/AvA2TSwDVt7YwY9TPOykLQ)
+- LangGraph入门全解（五）：多智能体协作一一Agents的任务分工与通信
+ [代码](/part5/)
+ [文章](https://mp.weixin.qq.com/s/VrC5OJHY6SYAFb1x4P44gg)
 - [LangGraph入门全解（六）：实战DeepResearch一一打造强大的AI调研助手]()
+ [代码](/part6/)
+ [文章](https://mp.weixin.qq.com/s/tNTjTjAMpEpBDIJyW65Edw)
 
 ## 公众号
 
