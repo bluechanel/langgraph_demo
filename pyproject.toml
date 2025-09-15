@@ -1,0 +1,15 @@
+[project]
+name = "langgraph-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain-mcp-adapters>=0.1.9",
+    "langchain-openai>=0.3.33",
+    "langchain-tavily>=0.2.11",
+    "langgraph>=0.6.7",
+    "langgraph-checkpoint-redis>=0.1.1",
+    "mem0ai>=0.1.116",
+    "tavily-python>=0.7.12",
+]
