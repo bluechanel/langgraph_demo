@@ -11,7 +11,7 @@
 | LangGraph入门全解（三）：让机器人拥有记忆一一集成Mem0  |  [文章](https://mp.weixin.qq.com/s/cuF8bJSFJ_7iCo8OVhcFpw) |  [代码](/part3/) |
 | LangGraph入门全解（四）：构建人机交互体验  |  [文章](https://mp.weixin.qq.com/s/AvA2TSwDVt7YwY9TPOykLQ) |  [代码](/part4/) |
 | LangGraph入门全解（五）：多智能体协作一一Agents的任务分工与通信  |  [文章](https://mp.weixin.qq.com/s/VrC5OJHY6SYAFb1x4P44gg) |  [代码](/part5/) |
-| LangGraph入门全解（六）：实战DeepResearch一一打造强大的AI调研助手  |  todo |  [代码](/part6/) |
+| LangGraph入门全解（六）：实战DeepResearch一一打造强大的AI调研助手  |  [文章](https://mp.weixin.qq.com/s/kVfHIG9sts-IIUpQWBvjmw) |  [代码](/part6/) |
 
 ## 环境变量
 ```shell
